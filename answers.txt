@@ -1,5 +1,5 @@
 1 : VIT{B0R3TG}
-2 : VIT{https://github.com/4ipok/volga_it_2024-ib.git}
+2 : VIT{1s_th1s_really_the_p@ssw0rd?}
 3 : VIT{A secret message}
 4 : VIT{Niagara Falls}
 5 : VIT{Changed database context}
